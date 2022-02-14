@@ -1,4 +1,4 @@
-# js_calculator__hangmanGame
+# js_calculator
 
 + We will use simple HTML, CSS, and make all the components
 work using basic JavaScript functions. 
