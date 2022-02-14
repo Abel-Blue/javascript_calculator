@@ -1,8 +1,8 @@
 input[type="button"] {
     border-radius: 15px;
-    background-color: rgb(164, 39, 168);
-    color: white;
-    border-color: rgb(10, 171, 211);
+    background-color: rgb(211, 42, 42);
+    color: rgb(0, 0, 0);
+    border-color: rgb(195, 233, 243);
     width: 100%;
 }
 
@@ -16,15 +16,24 @@ input[type="text"] {
 }
 
 table.tab {
-    width: 50%;
+    width: 70%;
     background-color: blueviolet;
     border-radius: 10px;
     height: 200px;
-    align-items: center;
 }
 
 * {
     height: 70px;
     font-size: 40px;
     font-family: fantasy;
+}
+
+#alig {
+    margin-left: 35%;
+    margin-right: 20%;
+}
+
+.title {
+    margin-left: 19%;
+    margin-right: 20%;
 }
