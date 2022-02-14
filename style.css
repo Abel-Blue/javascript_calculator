@@ -1,0 +1,30 @@
+input[type="button"] {
+    border-radius: 15px;
+    background-color: rgb(164, 39, 168);
+    color: white;
+    border-color: rgb(10, 171, 211);
+    width: 100%;
+}
+
+input[type="text"] {
+    border-radius: 10px;
+    text-align: right;
+    background-color: black;
+    color: rgb(8, 209, 41);
+    border-color: white;
+    width: 100%;
+}
+
+table.tab {
+    width: 50%;
+    background-color: blueviolet;
+    border-radius: 10px;
+    height: 200px;
+    align-items: center;
+}
+
+* {
+    height: 70px;
+    font-size: 40px;
+    font-family: fantasy;
+}
